@@ -7,6 +7,8 @@ public class Main {
         System.out.println ("안녕" );
         System.out.println ("안녕 못 해" );
         System.out.println ("머라고" );
+        System.out.println ("난 단지 인사를 한거야" );
+
 
 
     }
