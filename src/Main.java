@@ -9,6 +9,7 @@ public class Main {
         System.out.println ("머라고" );
         System.out.println ("넘 화내지마" );
         System.out.println ("난 단지 인사를 한거야" );
+        System.out.println ("난 단지 인사를 한것 뿐이야" );
 
     }
 }
